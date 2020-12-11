@@ -1,0 +1,8 @@
+public class HelloSir {
+  public init(){}
+  
+  public func whatIsYourName() {
+  
+     print("My name is so and so")
+  }
+}
